@@ -1,0 +1,6 @@
+{
+  "name": "Solar Life Inventory",
+  "description": "Offline-first inventory and serial number tracking application for SOLAR LIFE | Solar Services.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

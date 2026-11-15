@@ -1,0 +1,15 @@
+{
+	"appId": "com.solarlife.inventory",
+	"appName": "Solar Life Inventory",
+	"webDir": "dist",
+	"server": {
+		"androidScheme": "https"
+	},
+	"plugins": {
+		"CapacitorSQLite": {
+			"iosDatabaseLocation": "Library/CapacitorDatabase",
+			"iosIsEncryption": false,
+			"androidIsEncryption": false
+		}
+	}
+}
