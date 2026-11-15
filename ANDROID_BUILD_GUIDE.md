@@ -18,7 +18,7 @@ This project is configured with **Capacitor**, **@capacitor-community/sqlite** (
 Whenever you pull or modify the React/TypeScript source code, run:
 
 ```bash
-npm install
+npm install --legacy-peer-deps
 npm run build
 npx cap sync android
 ```
